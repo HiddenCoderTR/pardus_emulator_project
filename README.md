@@ -16,3 +16,17 @@ PROJECT: **K.Ö.Y** (**A**ncient **E**mulation **S**oftware)
 [HiddenCoderTR](https://github.com/HiddenCoderTR)/**Selim DEMİR** - Lead Coder
 
 [Fiko02](https://github.com/Fiko02)/**Faik GENÇ** - Coder
+
+**Beyza CURA** - Artist/Drawer
+
+**Ece SUCAKLI** - Artist/Drawer
+
+**Asel Nihan ŞAŞMAZ** - Artist/Drawer
+
+## Special Thanks
+
+All [Wine Contributors](https://github.com/wine-mirror/wine/graphs/contributors)
+
+**Ahmet Tuna ÖZEN** 
+
+**Vedat CEYLAN**
