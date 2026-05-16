@@ -7,4 +7,12 @@
 PROJECT: **K.Ö.Y** (**A**ncient **E**mulation **S**oftware)
 
 **K.Ö.Y** is an emulator for Windows™ applications, powered by [wine](https://github.com/wine-mirror/wine). **The first aim of this project is 
-[Teknofest](https://teknofest.org/tr/yarismalar/pardus-hata-yakalama-ve-oneri-yarismasi/) (Avation, Space and Technology Competition) first place.** 
+[Teknofest](https://teknofest.org/tr/yarismalar/pardus-hata-yakalama-ve-oneri-yarismasi/) (Avation, Space and Technology Competition) first place.** If you can be a sponsor for us think a little please.
+
+## Credits
+
+[Neonwraith](https://github.com/blazehunter009-sys)/**Efe Can BEYCAN** - Project Leader - Lead Developer
+
+[HiddenCoderTR](https://github.com/HiddenCoderTR)/**Selim DEMİR** - Lead Coder
+
+[Fiko02](https://github.com/Fiko02)/**Faik GENÇ** - Coder
