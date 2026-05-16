@@ -15,7 +15,7 @@
 
 [HiddenCoderTR](https://github.com/HiddenCoderTR)/**Selim DEMİR** - Lead Coder
 
-[Fiko02](https://github.com/Fiko02)/**Faik GENÇ** - Coder
+[Fiko02](https://github.com/Fiko02)/**Faik GENÇ** - Artist/Drawer
 
 **Beyza CURA** - Artist/Drawer
 
