@@ -1,4 +1,4 @@
-# This code is a part of {Project Name} Project by Team Geleceği Tasarlayanlar.
+# This code is a part of K.Ö.Y. Project by Team Geleceği Tasarlayanlar.
 #
 #   ____     ___      ____    ____    _   _   ____           ___      _____        _
 #  |  _ \   / _ \    |  _ \  |  _ \  | | | | / ___|         |__ \    | ____|      / |
@@ -8,5 +8,5 @@
 
 import os
 
-def(path):
+def printpath(path):
   print("File path:"+path);
