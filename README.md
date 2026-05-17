@@ -4,9 +4,9 @@
 
 ---
 
-## PROJECT: **K.Ö.Y** (**A**ncient **E**mulation **S**oftware)
+## PROJECT: **K.Ö.Y.** (**A**ncient **E**mulation **S**oftware)
 
-**K.Ö.Y** is an emulator for Windows™ applications, powered by [wine](https://github.com/wine-mirror/wine). **The first aim of this project is 
+**K.Ö.Y.** is an emulator for Windows™ applications, powered by [wine](https://github.com/wine-mirror/wine). **The first aim of this project is 
 [Teknofest](https://teknofest.org/tr/yarismalar/pardus-hata-yakalama-ve-oneri-yarismasi/) (Avation, Space and Technology Competition) first place.** If you can be a sponsor for us think a little please.
 
 ## Credits
@@ -25,7 +25,7 @@
 
 ## Special Thanks
 
-All [Wine Contributors](https://github.com/wine-mirror/wine/graphs/contributors)
+All [Wine Authors](https://github.com/wine-mirror/wine/blob/master/AUTHORS)
 
 **Ahmet Tuna ÖZEN** 
 
