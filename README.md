@@ -33,6 +33,3 @@ Efecanbeycan1717@gmail.com
 
 All [Wine Authors](https://github.com/wine-mirror/wine/blob/master/AUTHORS)
 
-**Ahmet Tuna ÖZEN** 
-
-**Vedat CEYLAN**
